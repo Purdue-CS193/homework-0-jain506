@@ -6,6 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+
+# Adi's First CS193 Homework
+- It is a one credit class
+- It is an introductory class, so it helps build the foundation
+
+  
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
